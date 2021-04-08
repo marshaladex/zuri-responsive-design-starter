@@ -345,7 +345,7 @@ div.footer h6 {
     font-size: 1rem;
     padding-top: 6rem;
 }
-/* screens from 1291px to 1330px */
+/* Media Queries */
 
 @media only screen and (max-width: 1330px) {
 
@@ -360,8 +360,6 @@ div.footer h6 {
 
 }
 
-/* screens from 1221px to 1290px */
-
 @media only screen and (max-width: 1290px) {
 
     div.hero-background-pos {
@@ -374,8 +372,6 @@ div.footer h6 {
     }
 
 }
-
-/* screens from 1151px to 1220px */
 
 @media only screen and (max-width: 1220px) {
 
@@ -390,8 +386,6 @@ div.footer h6 {
 
 }
 
-/* screens from 1051px to 1150px */
-
 @media only screen and (max-width: 1150px) {
 
     div.hero-background-pos {
@@ -404,8 +398,6 @@ div.footer h6 {
     }
 
 }
-
-/* screens from 971px to 1050px */
 
 @media only screen and (max-width: 1050px) {
 
@@ -420,8 +412,6 @@ div.footer h6 {
 
 }
 
-/* screens from 916px to 970px */
-
 @media only screen and (max-width: 970px) {
 
     div.hero-background-pos {
@@ -434,8 +424,6 @@ div.footer h6 {
     }
 
 }
-
-/* screens from 769px to 915px */
 
 @media only screen and (max-width: 915px) {
 
@@ -462,8 +450,6 @@ div.footer h6 {
     }
 
 }
-
-/* screens from 501px to 768px */
 
 @media only screen and (max-width: 768px) {
 
@@ -574,8 +560,6 @@ div.footer h6 {
 
 }
 
-/* screens from 426px to 500px */
-
 @media only screen and (max-width: 500px) {
 
     div.background {
@@ -584,8 +568,6 @@ div.footer h6 {
     }
 
 }
-
-/* screens from 376px to 425px */
 
 @media only screen and (max-width: 425px) {
 
@@ -596,8 +578,6 @@ div.footer h6 {
 
 }
 
-/* screens from 321px to 375px */
-
 @media only screen and (max-width: 375px) {
 
     div.background {
@@ -606,8 +586,6 @@ div.footer h6 {
     }
 
 }
-
-/* screens from 0 to 320px */
 
 @media only screen and (max-width: 320px) {
 
